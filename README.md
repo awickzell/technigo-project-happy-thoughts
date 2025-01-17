@@ -22,3 +22,8 @@ The command below is a combination of installing dependencies, opening up the pr
 ```bash
 npm i && code . && npm run dev
 ```
+
+
+Jag började med att be chatgpt kasta ihop stommen till appen, utefter mina önskade specifikationer. Där fick jag ett utkast med funktioner och layout. Jag fick sedan gå in och justera så att appen skulle fungera som jag ville, exempelvis lägga till datum-funktionen. 
+
+https://arvidshappythoughts.netlify.app/
